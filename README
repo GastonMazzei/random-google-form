@@ -1,0 +1,21 @@
+This is the code for a GoogleForm that:
+
+ . Has static questions
+
+ . Has randomly changing videos every
+   N minutes (currently N=1,5,30mins or 
+   by the hour or daily are the options)
+
+ . Has a GoogleSpreadsheet to where it 
+   writes the answers
+
+The constraints are:
+
+ . It must be run in Google.Scripts and 
+   that will require setting up an App
+   token
+
+Coming next:
+
+ . Generalization to other random-events
+   and a tutorial?
