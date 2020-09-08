@@ -2,12 +2,14 @@ This is the code for a GoogleForm that:
 
  . Has static questions
 
- . Has randomly changing videos every
-   N minutes (currently N=1,5,30mins or 
-   by the hour or daily are the options)
-
  . Has a GoogleSpreadsheet to where it 
    writes the answers
+
+. Has videos associated with each question,
+  and the videos themselves are randomly 
+  changing every N minutes. 
+  (currently N = 1 minute)
+
 
 The constraints are:
 
@@ -15,7 +17,9 @@ The constraints are:
    that will require setting up an App
    token
 
-Coming next:
+Others:
 
- . Generalization to other random-events
-   and a tutorial?
+ . Does someone require specific help for reversioning it;
+   instead of videos randomize for example images or the 
+   questions themselves? Contact me 
+ 
